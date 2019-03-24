@@ -11,6 +11,7 @@ pip install supervisor
 apt-get install supervisor
 ```
 
+
 # Configuration
 
 - `echo_supervisord_conf` 显示默认配置.
